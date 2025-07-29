@@ -7,7 +7,9 @@
 
 Transform your job application process with AI-powered resume analysis! This application helps candidates instantly **analyze how well their resume matches a job description** using advanced **Natural Language Processing (NLP)** techniques.
 
-![Resume Matcher Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Resume+Matcher+Demo)
+Demo Video : 
+
+https://github.com/user-attachments/assets/870f48a9-d382-41c7-bbb9-f3c30f5bfaa3
 
 ## 🌟 Key Features
 
